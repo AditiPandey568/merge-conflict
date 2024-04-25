@@ -1,2 +1,2 @@
-How to resolve merge conflict
+How to resolve conflict
 
